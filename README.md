@@ -4,6 +4,6 @@
 
 The teacher of this Module was Jesse Hall (https://github.com/codeSTACKr)
 
-Here is the final page: 
+Here is the final page: https://arturfriedrich.github.io/beerApp/
 
 Friedrich Artúr 2021
